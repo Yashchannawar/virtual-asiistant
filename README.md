@@ -17,15 +17,22 @@ Getting Started Project some followed By Following Steps-
 
 First,  run the development Backend Server:
 
- cd backend - towards in backend folder enter .
+ cd backend - towards in backend folder enter 
+ # 
 npm install
+# 
 npm run dev
+# 
 Open http://localhost:8000 with your browser to see the result for backend.
 
  Second, run the development  Frontend Server:
+ 
  cd frontend -towards in frontend folder enter .
+ #
  npm install
+  #
  npm run dev
+  #
 Open http://localhost:5173  with your browser to see the result for frontend.
 
 
